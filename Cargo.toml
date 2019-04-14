@@ -1,0 +1,8 @@
+[package]
+name = "background-noise"
+version = "0.1.0"
+authors = ["Luc Vancrayelynghe"]
+edition = "2018"
+
+[dependencies]
+cpal = "0.8.2"
